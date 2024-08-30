@@ -1,0 +1,28 @@
+body{
+margin: 0px;
+margin-bottom: 100px; 
+color:rgb(11, 33, 156); 
+background:rgb(161, 227, 243); 
+}
+
+header {
+border: solid 4px rgba(13, 24, 173, 0.884) ;
+font-size: 30px;
+color: black;
+padding: 20px;
+display: flex; 
+justify-content: center; 
+}
+.titulo {
+    font-size: 21px; 
+    justify-content: center; 
+}
+
+.texto {
+    font-size: 25px; 
+}
+img {
+    height: 200px; 
+    margin: 20px;
+
+}
